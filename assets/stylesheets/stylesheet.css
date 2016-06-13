@@ -17,14 +17,13 @@ a {
 
 nav ul {
   list-style: none;
+  text-align: center;
 }
 
 nav li {
   display: inline-block;
   padding: 0 30px;
-  border-color: #F94B07;
-  border-right: 5px;
-  border-style: solid;
+  border-right: 5px solid #F94B07
 }
 
 nav li:last-child {
