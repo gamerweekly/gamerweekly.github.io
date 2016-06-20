@@ -22,15 +22,14 @@ body {
 /**
  * Header designs for each game that we support.
  */
+.game-name { text-shadow: 1px 1px #000; text-decoration: uppercase; text-align: right }
 .overwatch {
   background-image: url(https://d1u1mce87gyfbn.cloudfront.net/media/wallpaper/tracer-wallpaper-wide.jpg);
   background-position: 0;
   background-size: cover;
 }
-  .overwatch h1 { text-shadow: 1px 1px #000; text-decoration: uppercase; text-align: right }
 
 .destiny {
   background-image: url(https://i.imgur.com/kxP4DEU.jpg);
   background-size: cover;
 }
-  .destiny h1 { text-shadow: 1px 1px #000; text-decoration: uppercase; text-align: right }
