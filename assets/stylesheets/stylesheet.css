@@ -6,7 +6,8 @@ body {
 }
 
 .menu { height: 70px; border-bottom: 1px solid #CCC; font-weight: bold }
-  .menu nav a { color: #DADADA; text-decoration: none }
+  .menu nav a { text-decoration: none }
+    .menu nav a:hover { color: #FDD600 }
   .menu .container { padding: 15px 0 }
   .logo img { height: 40px }
 
